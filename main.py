@@ -1,4 +1,4 @@
 import funcs
 
-funcs.add(1, 2)
+funcs.sub(3, 2)
 
